@@ -48,8 +48,8 @@ global.psaweria = 'https://saweria.com/Khurushi'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285838571629'
 global.nomorown = '6285896661014'
-global.namebot = 'KLISTYS-𝘔𝘋'
-global.nameown = 'KLIS-GNTNG'
+global.namebot = '𝙆𝙇𝙄𝙎𝙏𝙔𝙎-𝙈𝘿'
+global.nameown = '𝙆𝙇𝙄𝙎 𝙂𝙉𝙏𝙉𝙂'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285838571629', 'KLis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
-  ['6285838571629', 'Klis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
-  ['6285838571629', 'klis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
-  ['6285838571629', 'klis𝘎𝘢𝘯𝘻𝘻-Gntng', true] //Ganti jd nomormu sama Namamu
+  ['6285896661014', 'KLis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
+  ['6285896661014', 'Klis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
+  ['6285896661014', 'klis𝘎𝘢𝘯𝘻𝘻-Gntng', true],
+  ['6285896661014', 'klis𝘎𝘢𝘯𝘻𝘻-Gntng', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KLISSS-𝙈𝘿 𝙑1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KLISSS-𝙈𝘿 𝙑1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KLISSS-𝙈𝘿 𝙑1 '
+global.wm = '                「 𝙆𝙇𝙄𝙎𝙏𝙔𝙎-𝙈𝘿 𝙑1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙆𝙇𝙄𝙎𝙏𝙔𝙎-𝙈𝘿 𝙑1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝙆𝙇𝙄𝙎𝙏𝙔𝙎-𝙈𝘿 𝙑1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Kliss𝘎𝘢𝘯𝘻𝘻 Gntng`
-global.author = '                「 KLISSS-𝙈𝘿 𝙑1  あ」'
+global.author = '                「 𝙆𝙇𝙄𝙎 𝙏𝙔𝙎-𝙈𝘿 𝙑1  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,7 +189,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝐊𝐇𝐔𝐑𝐔𝐒𝐇𝐈'
+global.stickpack = '𝙈𝘿 𝙆𝙇𝙄𝙎-𝙂𝙉𝙏𝙉𝙂'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
